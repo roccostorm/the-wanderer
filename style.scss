@@ -1,10 +1,24 @@
 @charset "UTF-8";
+/*
+Theme Name: the wanderer
+Theme URI: https://github.com/roccostorm/the-wanderer
+Description: Simple WP Theme build with inuit.css
+Author: Robert Torkuhl
+Author URI: http://rotorstudio.de
+Version: 1.0
+Tags: responsive, white, inuitcss
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+
 /*------------------------------------*\
-    YOUR-PROJECT.CSS
+    STYLE.CSS
 \*------------------------------------*/
 /**
  * 
- * sass --watch your-project.scss:your-project.min.css --style compressed
+ * sass --watch style.scss:style.css --style compressed
  * 
  * Here we set up some variables, include the inuit.css framework, then add our
  * project-specific components afterwards.
